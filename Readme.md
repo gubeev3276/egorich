@@ -1,3 +1,3 @@
 Simple project for study makefiles
 ==================================
-1000
+zxcsolaris
